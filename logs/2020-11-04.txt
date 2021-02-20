@@ -1,0 +1,6 @@
+04:31:52-|-127.0.0.1-|-/posts.php?id=0-|-http://phplesson1/
+04:32:00-|-127.0.0.1-|-/edit.php?id=0-|-http://phplesson1/
+17:34:24-|-127.0.0.1-|-/-|-
+17:34:30-|-127.0.0.1-|-/posts.php?id=4-|-http://phplesson1/
+17:34:35-|-127.0.0.1-|-/edit.php?id=4-|-http://phplesson1/
+17:34:38-|-127.0.0.1-|-/delete.php?id=4-|-http://phplesson1/

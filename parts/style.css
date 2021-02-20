@@ -1,0 +1,39 @@
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.menu{
+    display:flex;
+    list-style-type:none;
+    font-size:24px;
+    padding:20px 10px;
+}
+.menu_link{
+    padding:10px;
+    text-transform:uppercase;
+    text-decoration:none;
+    color:yellow;
+
+}
+.postForm{
+    max-width:600px;
+}
+.postForm__content{
+    border:none;
+}
+legend{
+    padding:0;
+}
+.postForm label{
+    display:block;
+    margin:5px 0;
+}
+.postForm input, .postForm textarea{
+    width:100%;
+}
+footer, nav{
+    background-color: navy;
+    color:yellow;
+    text-align: center;
+}
